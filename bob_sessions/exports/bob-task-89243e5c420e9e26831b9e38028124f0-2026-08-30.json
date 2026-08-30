@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "exportedAt": 1788057797940,
+  "workspace": "file:c:\\LEGACY_SISTEM",
+  "tasks": [
+    {
+      "task": {
+        "id": "89243e5c420e9e26831b9e38028124f0",
+        "workspace": "file:c:\\LEGACY_SISTEM",
+        "parentId": null,
+        "taskType": "normal",
+        "title": "Read AGENTS.md completely and treat it as the authoritative project contract...",
+        "status": "active"
+      }
+    }
+  ]
+}
